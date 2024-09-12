@@ -1,0 +1,55 @@
+header{
+    position: absolute;
+    top: 0;
+     left: 11%;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+  
+  
+}
+/* .spurs{
+    margin: 0;
+}
+hr */
+/* header .line{
+    border-bottom: 1px solid black ;
+    height: ; 
+} */
+.nav{
+    display: flex;
+    list-style: none;
+    letter-spacing: 1px;
+    
+}
+ .nav a{
+    
+   
+    color: black;
+    padding: 0px 22px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: ease .3s;
+
+}
+.nav a:hover{
+    background: blue;
+ padding: 5px;
+   
+}
+
+ .asgard .line{
+    position: absolute;
+    right: -0.5em;
+    
+    
+}  
+.line{
+    border-bottom: 1px solid black ;
+    height: 8vh;
+    width: 100em;
+}
+.asgard{
+    position: relative;
+}
